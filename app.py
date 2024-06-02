@@ -78,10 +78,10 @@ with col2:
 # --- SOCIAL LINKS ---
 col5, col6 = st.columns([1, 1])
 with col5:
-    st.image("assets/logo_link.png", width=45)
+    st.image("assets/logo_link.PNG", width=45)
     st.write("[My LinkedIn](https://www.linkedin.com/in/mathis-grosperrin/?originalSubdomain=fr)")
 with col6:
-    st.image("assets/github_ok.png", width=37)
+    st.image("assets/github_ok.PNG", width=37)
     st.write("[My GitHub](https://github.com/MathGpn)")
 # cols = st.columns(len(SOCIAL_MEDIA))
 # for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
